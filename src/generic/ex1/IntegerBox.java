@@ -1,4 +1,4 @@
-package genegic.ex1;
+package generic.ex1;
 
 public class IntegerBox {
     // 숫자를 보관
